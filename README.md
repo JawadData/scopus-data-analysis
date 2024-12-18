@@ -8,7 +8,7 @@ This project establishes a complete **ETL (Extract, Transform, Load) pipeline** 
 
 ## 📐 **Project Architecture**
 
-![Architecture](architecture.png) <!-- Replace 'path_to_image.png' with the correct image link -->
+![Architecture](Architecture.jpg) <!-- Replace 'path_to_image.png' with the correct image link -->
 
 The pipeline consists of the following stages:
 
@@ -96,14 +96,3 @@ You can view the live dashboard using the link below:
 | Table Storage             | Microsoft SQL Server         |
 | Visualization             | Power BI                     |
 
----
-
-## ⚙️ **Prerequisites**
-
-Before running the project, ensure you have the following tools installed:
-
-1. **Python 3.8+**
-2. **PySpark**
-3. **Snowflake Connector**
-4. **Microsoft SQL Server**
-5. **Power BI Desktop**
