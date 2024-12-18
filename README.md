@@ -8,7 +8,7 @@ This project establishes a complete **ETL (Extract, Transform, Load) pipeline** 
 
 ## 📐 **Project Architecture**
 
-![Architecture](architecture.jpg) <!-- Replace 'path_to_image.png' with the correct image link -->
+![Architecture](architecture.png) <!-- Replace 'path_to_image.png' with the correct image link -->
 
 The pipeline consists of the following stages:
 
